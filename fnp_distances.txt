@@ -1,0 +1,288 @@
+Domlur kitchen	MG Road	6.5 km
+Sarjapur Road kitchen	 MG Road	14.3 km
+Whitefield kitchen	 MG Road	18.8 km
+k Domlur kitchen	 Malleshwaram	12.1 km
+Sarjapur Road kitchen	 Malleshwaram	20.1 km
+Whitefield kitchen	 Malleshwaram	24.4 km
+Domlur kitchen	 Fraser town	7.7 km
+Sarjapur Road kitchen	 Fraser town	21.8 km
+Whitefield kitchen	 Fraser town	18.7 km
+Domlur kitchen	 Mehkri circle	11.1 km
+Sarjapur Road kitchen	 Mehkri circle	19.4 km
+Whitefield kitchen	 Mehkri circle	30.0 km
+Domlur kitchen	 Domlur	2.3 km
+Sarjapur Road kitchen	 Domlur	11.0 km
+Whitefield kitchen	 Domlur	14.6 km
+Domlur kitchen	 Swami Vivekanand Metro	4.8 km
+Sarjapur Road kitchen	 Swami Vivekanand Metro	15.5 km
+Whitefield kitchen	 Swami Vivekanand Metro	16.8 km
+Domlur kitchen	 Race course	9.0 km
+Sarjapur Road kitchen	 Race course	16.8 km
+Whitefield kitchen	 Race course	21.4 km
+Domlur kitchen	 Basyam Circle	12.6 km
+Sarjapur Road kitchen	 Basyam Circle	19.8 km
+Whitefield kitchen	 Basyam Circle	24.9 km
+Domlur kitchen	 Jayanagar	10.3 km
+Sarjapur Road kitchen	 Jayanagar	12.1 km
+Whitefield kitchen	 Jayanagar	22.0 km
+Domlur kitchen	 Devesandra	12.6 km
+Sarjapur Road kitchen	 Devesandra	20.6 km
+Whitefield kitchen	 Devesandra	30.3 km
+Domlur kitchen	 Matikere	22.8 km
+Sarjapur Road kitchen	 Matikere	32.1 km
+Whitefield kitchen	 Matikere	29.0 km
+Domlur kitchen	 Vidyarayanpura	25.7 km
+Sarjapur Road kitchen	 Vidyarayanpura	35.0 km
+Whitefield kitchen	 Vidyarayanpura	32.0 km
+Domlur kitchen	 Jalahalli East	26.4 km
+Sarjapur Road kitchen	 Jalahalli East	35.7 km
+Whitefield kitchen	 Jalahalli East	32.7 km
+Domlur kitchen	 Rammurthy nagar	10.9 km
+Sarjapur Road kitchen	 Rammurthy nagar	20.0 km
+Whitefield kitchen	 Rammurthy nagar	21.4 km
+Domlur kitchen	 Murgeshpalya	3.9 km
+Sarjapur Road kitchen	 Murgeshpalya	13.7 km
+Whitefield kitchen	 Murgeshpalya	11.6 km
+Domlur kitchen	 Chamrajpet	10.7 km
+Sarjapur Road kitchen	 Chamrajpet	15.3 km
+Whitefield kitchen	 Chamrajpet	23.0 km
+Domlur kitchen	 Hanumanth nagar	11.4 km
+Sarjapur Road kitchen	 Hanumanth nagar	16.4 km
+Whitefield kitchen	 Hanumanth nagar	26.3 km
+Domlur kitchen	 Gutta halli	9.8 km
+Sarjapur Road kitchen	 Gutta halli	17.8 km
+Whitefield kitchen	 Gutta halli	22.1 km
+Domlur kitchen	 Srirampuram	11.4 km
+Sarjapur Road kitchen	 Srirampuram	19.4 km
+Whitefield kitchen	 Srirampuram	23.7 km
+Domlur kitchen	 Yeshwantpur	17.2 km
+Sarjapur Road kitchen	 Yeshwantpur	34.0 km
+Whitefield kitchen	 Yeshwantpur	31.0 km
+Domlur kitchen	 Bangalore City station	11.9 km
+Sarjapur Road kitchen	 Bangalore City station	18.5 km
+Whitefield kitchen	 Bangalore City station	24.2 km
+Domlur kitchen	 hebbal	15.4 km
+Sarjapur Road kitchen	 hebbal	28.0 km
+Whitefield kitchen	 hebbal	25.0 km
+Domlur kitchen	 richmond road	5.0 km
+Sarjapur Road kitchen	 richmond road	12.7 km
+Whitefield kitchen	 richmond road	17.3 km
+Domlur kitchen	 Pipeline Road	11.9 km
+Sarjapur Road kitchen	 Pipeline Road	18.8 km
+Whitefield kitchen	 Pipeline Road	24.3 km
+Domlur kitchen	 Sudama Nagar	7.3 km
+Sarjapur Road kitchen	 Sudama Nagar	12.9 km
+Whitefield kitchen	 Sudama Nagar	19.6 km
+Domlur kitchen	 Basvangudi	11.6 km
+Sarjapur Road kitchen	 Basvangudi	15.3 km
+Whitefield kitchen	 Basvangudi	25.2 km
+Domlur kitchen	 Tavarkere	8.5 km
+Sarjapur Road kitchen	 Tavarkere	10.3 km
+Whitefield kitchen	 Tavarkere	20.2 km
+Domlur kitchen	 Adugodi	7.5 km
+Sarjapur Road kitchen	 Adugodi	10.2 km
+Whitefield kitchen	 Adugodi	20.0 km
+Domlur kitchen	 Jalahalli	24.3 km
+Sarjapur Road kitchen	 Jalahalli	33.6 km
+Whitefield kitchen	 Jalahalli	30.6 km
+Domlur kitchen	 RT nagar	13.6 km
+Sarjapur Road kitchen	 RT nagar	26.7 km
+Whitefield kitchen	 RT nagar	23.7 km
+Domlur kitchen	 Beningana halli	5.6 km
+Sarjapur Road kitchen	 Beningana halli	18.8 km
+Whitefield kitchen	 Beningana halli	16.8 km
+Domlur kitchen	 kormangala	6.1 km
+Sarjapur Road kitchen	 kormangala	6.4 km
+Whitefield kitchen	 kormangala	16.3 km
+Domlur kitchen	 Doddakaneelli	12.8 km
+Sarjapur Road kitchen	 Doddakaneelli	2.1 km
+Whitefield kitchen	 Doddakaneelli	14.2 km
+Domlur kitchen	 Ayyapa nagar	10.9 km
+Sarjapur Road kitchen	 Ayyapa nagar	20.0 km
+Whitefield kitchen	 Ayyapa nagar	19.0 km
+Domlur kitchen	Marathahalli	7.6 km
+Sarjapur Road kitchen	Marathahalli	10.1 km
+Whitefield kitchen	Marathahalli	8.0 km
+Domlur kitchen	Doddanekundi	8.7 km
+Sarjapur Road kitchen	Doddanekundi	11.3 km
+Whitefield kitchen	Doddanekundi	9.3 km
+Domlur kitchen	AECS Layout	10.1 km
+Sarjapur Road kitchen	AECS Layout	13.3 km
+Whitefield kitchen	AECS Layout	6.0 km
+Domlur kitchen	Munnekollala	9.0 km
+Sarjapur Road kitchen	Munnekollala	12.2 km
+Whitefield kitchen	Munnekollala	7.0 km
+Domlur kitchen	Kartik Nagar	12.5 km
+Sarjapur Road kitchen	Kartik Nagar	13.3 km
+Whitefield kitchen	Kartik Nagar	11.0 km
+Domlur kitchen	 Indiranagar	2.8 km
+Sarjapur Road kitchen	 Indiranagar	13.5 km
+Whitefield kitchen	 Indiranagar	14.8 km
+Domlur kitchen	 Deepanjali nagar	15.6 km
+Sarjapur Road kitchen	 Deepanjali nagar	40.4 km
+Whitefield kitchen	 Deepanjali nagar	27.9 km
+Domlur kitchen	 Attiguppe	11.2 km
+Sarjapur Road kitchen	 Attiguppe	12.1 km
+Whitefield kitchen	 Attiguppe	22.0 km
+Domlur kitchen	 Halasuru	5.8 km
+Sarjapur Road kitchen	 Halasuru	14.3 km
+Whitefield kitchen	 Halasuru	18.1 km
+Domlur kitchen	 Banaswadi	11.0 km
+Sarjapur Road kitchen	 Banaswadi	20.3 km
+Whitefield kitchen	 Banaswadi	17.2 km
+Domlur kitchen	 west of chord road	13.6 km
+Sarjapur Road kitchen	 west of chord road	20.9 km
+Whitefield kitchen	 west of chord road	25.9 km
+Domlur kitchen	 manyata	14.0 km
+Sarjapur Road kitchen	 manyata	23.3 km
+Whitefield kitchen	 manyata	20.3 km
+Domlur kitchen	 Bangalore cantt	9.1 km
+Sarjapur Road kitchen	 Bangalore cantt	17.7 km
+Whitefield kitchen	 Bangalore cantt	21.0 km
+Domlur kitchen	 Austin town	5.6 km
+Sarjapur Road kitchen	 Austin town	10.4 km
+Whitefield kitchen	 Austin town	18.0 km
+Domlur kitchen	 hoodi	12.9 km
+Sarjapur Road kitchen	 hoodi	13.7 km
+Whitefield kitchen	 hoodi	7.3 km
+Domlur kitchen	 K R Puram	12.8 km
+Sarjapur Road kitchen	 K R Puram	21.9 km
+Whitefield kitchen	 K R Puram	11.9 km
+Domlur kitchen	 kathreguppe	12.3 km
+Sarjapur Road kitchen	 kathreguppe	16.4 km
+Whitefield kitchen	 kathreguppe	26.3 km
+Domlur kitchen	 Indian Express	8.9 km
+Sarjapur Road kitchen	 Indian Express	16.9 km
+Whitefield kitchen	 Indian Express	21.0 km
+Domlur kitchen	 Palace Guttahalli	8.2 km
+Sarjapur Road kitchen	 Palace Guttahalli	16.2 km
+Whitefield kitchen	 Palace Guttahalli	20.5 km
+Domlur kitchen	 KR Market	9.4 km
+Sarjapur Road kitchen	 KR Market	16.3 km
+Whitefield kitchen	 KR Market	21.7 km
+Domlur kitchen	 HMT Layout	16.0 km
+Sarjapur Road kitchen	 HMT Layout	33.2 km
+Whitefield kitchen	 HMT Layout	30.2 km
+Domlur kitchen	 mallesharam	13.3 km
+Sarjapur Road kitchen	 mallesharam	21.3 km
+Whitefield kitchen	 mallesharam	31.6 km
+Domlur kitchen	 gnanbharti	19.8 km
+Sarjapur Road kitchen	 gnanbharti	44.8 km
+Whitefield kitchen	 gnanbharti	32.1 km
+Domlur kitchen	 chokkasandra	30.5 km
+Sarjapur Road kitchen	 chokkasandra	55.0 km
+Whitefield kitchen	 chokkasandra	45.1 km
+Domlur kitchen	 narayanapura	21.0 km
+Sarjapur Road kitchen	 narayanapura	38.7 km
+Whitefield kitchen	 narayanapura	35.6 km
+Domlur kitchen	 kenchenhalli	18.5 km
+Sarjapur Road kitchen	 kenchenhalli	25.4 km
+Whitefield kitchen	 kenchenhalli	30.8 km
+Domlur kitchen	 Uttarhalli	19.3 km
+Sarjapur Road kitchen	 Uttarhalli	19.6 km
+Whitefield kitchen	 Uttarhalli	29.4 km
+Domlur kitchen	 yelahanka new town	22.5 km
+Sarjapur Road kitchen	 yelahanka new town	35.1 km
+Whitefield kitchen	 yelahanka new town	32.1 km
+Domlur kitchen	 vidyanaranpura	23.8 km
+Sarjapur Road kitchen	 vidyanaranpura	36.4 km
+Whitefield kitchen	 vidyanaranpura	33.4 km
+Domlur kitchen	 nalurhalli	14.1 km
+Sarjapur Road kitchen	 nalurhalli	14.5 km
+Whitefield kitchen	 nalurhalli	0.4 km
+Domlur kitchen	 Belatur	18.9 km
+Sarjapur Road kitchen	 Belatur	19.3 km
+Whitefield kitchen	 Belatur	5.3 km
+Domlur kitchen	 Begur Road	10.8 km
+Sarjapur Road kitchen	 Begur Road	11.2 km
+Whitefield kitchen	 Begur Road	21.1 km
+Domlur kitchen	 marenhalli	10.6 km
+Sarjapur Road kitchen	 marenhalli	11.2 km
+Whitefield kitchen	 marenhalli	21.0 km
+Domlur kitchen	 padamnabhnagar	14.6 km
+Sarjapur Road kitchen	 padamnabhnagar	15.7 km
+Whitefield kitchen	 padamnabhnagar	25.6 km
+Domlur kitchen	 Nagasandra Metro	21.9 km
+Sarjapur Road kitchen	 Nagasandra Metro	39.6 km
+Whitefield kitchen	 Nagasandra Metro	36.5 km
+Domlur kitchen	 HAL	3.2 km
+Sarjapur Road kitchen	 HAL	14.9 km
+Whitefield kitchen	 HAL	12.8 km
+Domlur kitchen	 Hulimavu	13.7 km
+Sarjapur Road kitchen	 Hulimavu	14.2 km
+Whitefield kitchen	 Hulimavu	24.0 km
+Domlur kitchen	 K narayana pura	17.7 km
+Sarjapur Road kitchen	 K narayana pura	27.0 km
+Whitefield kitchen	 K narayana pura	25.6 km
+Domlur kitchen	 Kumar Swamy Layout	15.4 km
+Sarjapur Road kitchen	 Kumar Swamy Layout	15.1 km
+Whitefield kitchen	 Kumar Swamy Layout	25.0 km
+Domlur kitchen	 KHB Colony	15.3 km
+Sarjapur Road kitchen	 KHB Colony	22.6 km
+Whitefield kitchen	 KHB Colony	27.6 km
+Domlur kitchen	 Jayamahal	11.6 km
+Sarjapur Road kitchen	 Jayamahal	19.7 km
+Whitefield kitchen	 Jayamahal	28.4 km
+Domlur kitchen	 Chandapura	8.1 km
+Sarjapur Road kitchen	 Chandapura	10.0 km
+Whitefield kitchen	 Chandapura	19.8 km
+Domlur kitchen	 bannerghatta	32.1 km
+Sarjapur Road kitchen	 bannerghatta	26.0 km
+Whitefield kitchen	 bannerghatta	42.3 km
+Domlur kitchen	 kadugondanhalli	9.4 km
+Sarjapur Road kitchen	 kadugondanhalli	23.5 km
+Whitefield kitchen	 kadugondanhalli	20.4 km
+Domlur kitchen	 ittamadu	15.8 km
+Sarjapur Road kitchen	 ittamadu	17.3 km
+Whitefield kitchen	 ittamadu	27.2 km
+Domlur kitchen	 Rajajinagar	16.0 km
+Sarjapur Road kitchen	 Rajajinagar	24.1 km
+Whitefield kitchen	 Rajajinagar	32.9 km
+Domlur kitchen	 hesarghatta	38.8 km
+Sarjapur Road kitchen	 hesarghatta	48.1 km
+Whitefield kitchen	 hesarghatta	45.0 km
+Domlur kitchen	 guddahalli	24.8 km
+Sarjapur Road kitchen	 guddahalli	57.6 km
+Whitefield kitchen	 guddahalli	37.3 km
+Domlur kitchen	 Bedarhalli	24.3 km
+Sarjapur Road kitchen	 Bedarhalli	46.5 km
+Whitefield kitchen	 Bedarhalli	39.9 km
+Domlur kitchen	 jakkuru	17.1 km
+Sarjapur Road kitchen	 jakkuru	29.7 km
+Whitefield kitchen	 jakkuru	26.7 km
+Domlur kitchen	 varsova layout	7.8 km
+Sarjapur Road kitchen	 varsova layout	15.8 km
+Whitefield kitchen	 varsova layout	12.8 km
+Domlur kitchen	 mathikere	14.6 km
+Sarjapur Road kitchen	 mathikere	30.0 km
+Whitefield kitchen	 mathikere	27.0 km
+Domlur kitchen	 challaghatta	6.2 km
+Sarjapur Road kitchen	 challaghatta	9.6 km
+Whitefield kitchen	 challaghatta	19.4 km
+Domlur kitchen	 mahalakshamipuram	16.8 km
+Sarjapur Road kitchen	 mahalakshamipuram	24.8 km
+Whitefield kitchen	 mahalakshamipuram	33.3 km
+Domlur kitchen	 vigna kendre	25.7 km
+Sarjapur Road kitchen	 vigna kendre	35.0 km
+Whitefield kitchen	 vigna kendre	32.0 km
+Domlur kitchen	 pattangere	18.4 km
+Sarjapur Road kitchen	 pattangere	22.7 km
+Whitefield kitchen	 pattangere	30.7 km
+Domlur kitchen	 huskur	21.3 km
+Sarjapur Road kitchen	 huskur	15.6 km
+Whitefield kitchen	 huskur	25.3 km
+Domlur kitchen	 electronic city	19.0 km
+Sarjapur Road kitchen	 electronic city	11.2 km
+Whitefield kitchen	 electronic city	29.3 km
+Domlur kitchen	 sarjapur outer ring road	11.3 km
+Sarjapur Road kitchen	 sarjapur outer ring road	4.4 km
+Whitefield kitchen	 sarjapur outer ring road	14.2 km
+Domlur kitchen	 hsr layout	8.7 km
+Sarjapur Road kitchen	 hsr layout	6.1 km
+Whitefield kitchen	 hsr layout	16.0 km
+Domlur kitchen	 RMZ ecospace	11.3 km
+Sarjapur Road kitchen	 RMZ ecospace	8.2 km
+Whitefield kitchen	 RMZ ecospace	10.2 km
+Domlur kitchen	 vijaynagar	14.9 km
+Sarjapur Road kitchen	 vijaynagar	21.8 km
+Whitefield kitchen	 vijaynagar	27.2 km
